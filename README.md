@@ -1,9 +1,13 @@
-# Performance Analysis of Digital Media Campaigns (Looker Studio)  
-**Goal:** To compare the performance of campaigns by combining and analyzing ad metrics from Google Ads and Facebook Ads.  
-**Method and Tools:** Connected to a PostgreSQL database and used CTEs to combine tables (spend, impressions, clicks, leads, value). Created custom metrics in Looker Studio (Ad Spend, ROMI, CPC, CPM, CTR, ROMI). Added a "media source" field manually and grouped data by date and media source. Used combined bar-line charts, line charts, heatmaps, and filters.  
-**Dashboard Design:** Combined bar-line chart showing Ad Spend and ROMI together, line chart showing number of active campaigns per month, comparison table with heatmap by campaign, and filters for date and campaign name.  
-**Result**: The campaign performance was compared over time. Monitored ad spending and conversion value. ROMI changed during the period. The combined chart showed that ROMI and Ad Spend moved in opposite directions at some points. This may show opportunities for optimization. The heatmap showed that the most effective campaigns were “Trendy” and “Promos.”  
-**Skills Gained:** Data combining using SQL (CTE, JOIN, UNION), metric creation, data modeling and visualization design in Looker Studio, performance analysis for marketing campaigns.  
+# **Performance Analysis of Digital Media Campaigns (SQL and Looker Studio)**  
+**Goal:** To compare the efficiency of Google Ads and Facebook Ads campaigns by analyzing their performance metrics.  
+**Methods and Tools:** Connecting to a PostgreSQL database via Looker Studio, combining data using CTEs, JOINs, and UNION ALL, grouping the data, calculating advertising metrics (Ad Spend, ROMI, CPC, CPM, CTR), and creating interactive data visualizations.  
+**Gain:** Digital marketing analysis, performance evaluation of ad campaigns, tracking of conversion rates and return on marketing investment.  
+
+# **Dijital Medya Kampanyalarının Performans Analizi (SQL ve Looker Studio)**  
+**Amaç:** Google Ads ve Facebook Ads reklam kampanyalarının metriklerini analiz ederek performans verimliliklerini karşılaştırmak.  
+**Yöntem ve Araçlar:** Looker Studio üzerinden PostgreSQL veritabanına bağlanarak verilerin birleştirilmesi (CTE, JOIN, UNION ALL kullanımı), gruplanması, reklam metriklerinin hesaplanması (Ad Spend, ROMI, CPC, CPM, CTR, ROMI) ve interaktif veri görselleştirmelerinin oluşturulması.  
+**Kazandırdığı Yetkinlikler:** Dijital pazarlama analizleri, reklam kampanyalarının performans değerlendirmesi, dönüşüm oranlarının ve yatırım getirilerinin takibi.  
+
 
 
 

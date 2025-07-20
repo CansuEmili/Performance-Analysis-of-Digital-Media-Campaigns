@@ -8,7 +8,7 @@
 **Yöntem ve Araçlar:** Looker Studio üzerinden PostgreSQL veritabanına bağlanarak verilerin birleştirilmesi (CTE, JOIN, UNION ALL kullanımı), gruplanması, reklam metriklerinin hesaplanması (Ad Spend, ROMI, CPC, CPM, CTR, ROMI) ve interaktif veri görselleştirmelerinin oluşturulması.  
 **Kazandırdığı Yetkinlikler:** Dijital pazarlama analizleri, reklam kampanyalarının performans değerlendirmesi, dönüşüm oranlarının ve yatırım getirilerinin takibi.  
 
-
+# **Looker Studio Link:** https://lookerstudio.google.com/s/hEm-DnGGvFY
 
 
 ![image](https://github.com/user-attachments/assets/3eca893b-bf7a-4ea5-b2db-270ebec16a01)
